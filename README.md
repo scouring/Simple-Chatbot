@@ -19,7 +19,8 @@ It demonstrates how to interact with OpenAI's GPT models to generate conversatio
 
    ```bash
    git clone https://github.com/scouring/Simple-Chatbot.git
+   cd Simple-Chatbot
 
 2. Use your OpenAI API key.
-   cd Simple-Chatbot
+   
 
